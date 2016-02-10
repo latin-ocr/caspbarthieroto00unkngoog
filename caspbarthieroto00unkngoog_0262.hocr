@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./caspbarthieroto00unkngoog_0262.png"; bbox 0 0 2431 3881; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 336 142 650 293">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 336 142 650 293">
+     <span class='ocr_line' id='line_1_1' title="bbox 336 142 650 293; baseline -0.041 -35"><span class='ocrx_word' id='word_1_1' title='bbox 336 285 372 293; x_wconf 10' lang='lat' dir='ltr'>,X</span> <span class='ocrx_word' id='word_1_2' title='bbox 477 142 650 258; x_wconf 65' lang='lat'>23⁸2</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 828 55 1750 229">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 828 55 1750 229">
+     <span class='ocr_line' id='line_1_2' title="bbox 828 133 1139 229; baseline -0.002 -8"><span class='ocrx_word' id='word_1_3' title='bbox 828 213 838 221; x_wconf 89' lang='lat'><strong>.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 885 147 967 224; x_wconf 71' lang='lat'>:1</span> <span class='ocrx_word' id='word_1_5' title='bbox 1025 133 1139 229; x_wconf 68' lang='lat' dir='ltr'><strong>C</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1213 55 1750 227; baseline 0.002 -3"><span class='ocrx_word' id='word_1_6' title='bbox 1213 145 1380 227; x_wconf 51' lang='lat' dir='ltr'>Bm</span> <span class='ocrx_word' id='word_1_7' title='bbox 1419 55 1750 227; x_wconf 16' lang='lat' dir='ltr'>amn-1</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
